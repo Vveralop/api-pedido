@@ -1,2 +1,2 @@
 # api-pedido
-Challenge pedidos
+Api pra realizar pedidos
